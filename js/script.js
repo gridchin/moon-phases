@@ -35,7 +35,7 @@ jQuery(document).ready(function(){
     	var x = e.pageX;
     	var width = $(document).width();
     	var interval = x/width;
-    	var moon = -(Math.round(630*interval)-315);
+    	var moon = Math.round(660*interval)-330;
     	var opacity = Math.abs(moon/300)+.1;
     	var night = Math.abs(Math.abs(moon/300) - 1);
     	

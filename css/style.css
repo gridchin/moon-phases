@@ -295,9 +295,9 @@
 		-webkit-border-radius: 50%;
 		 -moz-border-radius: 50%;
 		 	  border-radius: 50%;
-		-webkit-box-shadow: inset -260px 0 0 0 rgba(245,229,204,.5);
-		 -moz-box-shadow: inset -260px 0 0 0 rgba(245,229,204,.5);
-			  box-shadow: inset -260px 0 0 0 rgba(245,229,204,.5);
+		-webkit-box-shadow: inset -60px 0 0 0 rgba(245,229,204,.5);
+		 -moz-box-shadow: inset -60px 0 0 0 rgba(245,229,204,.5);
+			  box-shadow: inset -60px 0 0 0 rgba(245,229,204,.5);
 	}
 	
 

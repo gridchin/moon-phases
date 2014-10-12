@@ -2,4 +2,4 @@ moon-phases
 ===========
 
 Experiment with cursor position.
-Demo: http://gridchin.com/experiments/moon-phases/
+Demo: http://gridchin.github.io/moon-phases/

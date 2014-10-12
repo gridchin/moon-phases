@@ -51,15 +51,4 @@ jQuery(document).ready(function(){
 		$('.stars, .night').append('<li></li>');		
 	}
     
-    $('.share_btn').click(function () {
-	    $(this).fadeOut(100);
-	    $('footer article').fadeIn(300);
-	    return false;
-	});
-
-	$('.bg').click(function () {
-	    $('footer article').fadeOut(100);
-	    $('.share_btn').fadeIn(300);
-	}); 
-    
 })
